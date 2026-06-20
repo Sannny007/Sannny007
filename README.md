@@ -1,193 +1,207 @@
 <div align="center">
-  
-  # 👋 Welcome to My Profile
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;DSA+Enthusiast;Java+%26+MERN+Stack;Building+Scalable+Solutions" alt="Typing SVG" />
-  </a>
+
+# Sanny Kumar Sharma
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Making;Creative+Problem+Solver;Modern+Web+Architect" alt="Typing SVG" />
+
+---
+
+**Building performant, scalable, and visually stunning web applications**
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Summary
 
-I'm a **passionate developer** dedicated to creating efficient, scalable, and user-friendly applications. With expertise in both **frontend and backend development**, I combine creativity with technical excellence to deliver impactful solutions.
+I'm a **self-driven developer** passionate about crafting exceptional digital experiences. With hands-on expertise in **modern web technologies** and a strong foundation in **computer science fundamentals**, I specialize in building production-ready applications that combine aesthetics with performance.
 
-- 🎓 **Education**: BTech CSE Student
-- 💼 **Focus**: Full-Stack Development & Problem-Solving
-- 🚀 **Specialization**: React, JavaScript, Java & Web Technologies
-- 📍 **Location**: India
-- 🎨 **Passion**: Building beautiful, responsive, and intuitive user interfaces
+Currently transitioning into **full-stack development** while deepening my **algorithmic problem-solving** skills.
 
 ---
 
-## 🔗 Connect With Me
+## 💼 Core Competencies
+
+<div align="center">
+
+| **Frontend Mastery** | **Advanced Concepts** | **Backend Journey** | **Problem Solving** |
+|:---:|:---:|:---:|:---:|
+| React + Redux Toolkit | GSAP Animations | Node.js (Learning) | Java DSA |
+| TypeScript | Three.js 3D Graphics | Express.js (Learning) | Algorithm Design |
+| Responsive Design | Performance Optimization | Database Design | LeetCode/CodeChef |
+| Modern CSS/Tailwind | State Management | REST APIs | Data Structures |
+
+</div>
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### **Animation & 3D**
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+### **Backend Development** *(In Progress)*
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+### **DSA & Problem Solving** *(In Progress)*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE_2026-00D4FF?style=flat-square&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 What I Bring to the Table
+
+<div align="center">
+
+🎨 **Creative Frontend Architecture** - Building interactive, pixel-perfect UIs with React & advanced animations
+
+⚡ **Performance-First Development** - Optimized renders, smooth animations, efficient state management
+
+🎬 **Motion & Interaction Design** - GSAP & Three.js for immersive, engaging web experiences
+
+🧠 **Algorithmic Thinking** - Strong foundation in DSA, writing optimized, scalable code
+
+🔄 **Modern State Management** - Redux Toolkit mastery for complex application states
+
+📱 **Responsive & Accessible** - Mobile-first, accessibility-conscious development
+
+</div>
+
+---
+
+## 📚 Professional Development Path
+
+<div align="center">
+
+### ✅ **Mastered**
+```
+✓ HTML5 & CSS3 (Advanced)
+✓ JavaScript (ES6+ Features)
+✓ React (Hooks, Context, Performance)
+✓ Redux Toolkit (State Management)
+✓ TypeScript (Type Safety)
+✓ GSAP (Animation Library)
+✓ Three.js (3D Graphics)
+✓ Responsive Design
+✓ Version Control (Git/GitHub)
+```
+
+### 🔄 **Currently Learning**
+```
+→ Node.js & Express.js (Backend)
+→ MongoDB & Database Design
+→ RESTful API Development
+→ Java DSA (Data Structures & Algorithms)
+→ Problem-Solving Techniques
+```
+
+### ⏳ **Next Phase**
+```
+⋯ Full-Stack MERN Applications
+⋯ Advanced Backend Architecture
+⋯ System Design & Scalability
+⋯ DevOps & Deployment
+⋯ GraphQL & Advanced API Patterns
+```
+
+</div>
+
+---
+
+## 🌟 Key Strengths
+
+<div align="center">
+
+| Aspect | Strength |
+|--------|----------|
+| **Frontend Excellence** | Expert in React ecosystem, creating performant UIs with smooth interactions |
+| **Animation Expertise** | GSAP & Three.js proficiency for creating engaging visual experiences |
+| **Code Quality** | TypeScript for type safety, clean architecture, maintainable code |
+| **State Management** | Redux Toolkit mastery for managing complex application states |
+| **Learning Mindset** | Actively expanding into backend & DSA with structured approach |
+| **Problem Solving** | Strong analytical skills, debugging, and optimization abilities |
+
+</div>
+
+---
+
+## 💡 Recent Focus Areas
+
+<div align="center">
+
+🔨 Building responsive React applications with Redux Toolkit  
+🎬 Creating smooth, performant animations with GSAP  
+🌐 Exploring 3D web graphics with Three.js  
+📡 Learning backend technologies (Node.js, Express, MongoDB)  
+🧮 Solving DSA problems in Java  
+⚙️ Optimizing performance and code efficiency  
+
+</div>
+
+---
+
+## 🎯 Career Objectives
+
+<div align="center">
+
+**Short Term (Next 6 months)**
+- Master Node.js & Express.js backend development
+- Build 2-3 full-stack MERN projects
+- Achieve proficiency in Java DSA fundamentals
+
+**Medium Term (6-12 months)**
+- Become a full-stack developer
+- Contribute to open-source projects
+- Develop expertise in system design
+
+**Long Term (1-2 years)**
+- Work as a professional full-stack developer
+- Build scalable applications handling millions of users
+- Mentor junior developers
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sannny007)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sannny007)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanny433sharma@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 📊 Development Stats
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎨 Modern Portfolio Website
-A responsive personal portfolio showcasing projects and skills with smooth animations.
-- **Tech Stack**: HTML, CSS, JavaScript, Responsive Design
-- **Features**: Smooth animations, Project showcase, Contact form
-- **[View Project](https://github.com/Sannny007/portfolio)**
-
-### 🛒 Amazon Clone
-Responsive Amazon homepage clone with modern UI and grid layouts.
-- **Tech Stack**: HTML, CSS, Responsive Design
-- **Features**: Product cards, Grid layout, Mobile optimization
-- **[View Project](https://github.com/Sannny007/amazon-clone)**
-
-### 🤖 CodeMentor AI
-AI-powered coding assistant integrated with Google Gemini API.
-- **Tech Stack**: React, Tailwind CSS, Gemini API
-- **Features**: Real-time coding assistance, Clean UI, API integration
-- **[View Project](https://github.com/Sannny007/code-mentor-ai)**
-
-### ⏰ Digital Clock
-Interactive digital clock with real-time updates.
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Features**: Live time display, Responsive design, Elegant UI
-- **[View Project](https://github.com/Sannny007/digital-clock)**
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sannny007&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannny007&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Data Structures** | **Tools** |
-|-------------|-----------|-------------------|----------|
-| React.js | Node.js | Java DSA | Git/GitHub |
-| JavaScript | Express.js | Algorithms | VS Code |
-| HTML/CSS | MongoDB | Problem Solving | Responsive Design |
-| Tailwind CSS | RESTful APIs | Optimization | Web Performance |
-
-</div>
-
----
-
-## 📚 Learning Roadmap
-
-<div align="center">
-
-### ✅ Completed
-- HTML5 & CSS3 Fundamentals
-- JavaScript ES6+
-- Responsive Web Design
-- React.js Basics
-
-### 🔄 In Progress
-- Advanced React Patterns
-- MERN Stack Development
-- Java DSA & Problem Solving
-- Web Performance Optimization
-
-### ⏳ Upcoming
-- Backend Development (Node.js/Express)
-- Database Design & Optimization
-- System Design & Architecture
-- DevOps & Cloud Technologies
-
-</div>
-
----
-
-## 💡 What I'm Currently Working On
-
-<div align="center">
-
-- 🔨 Building interactive React applications
-- 📖 Mastering Data Structures & Algorithms in Java
-- 🚀 Developing full-stack web applications
-- 💪 Solving complex problem-solving challenges
-- 🎓 Exploring advanced JavaScript concepts
-
-</div>
-
----
-
-## 🏆 Quick Facts
-
-<div align="center">
-
-| 🎯 | ⚡ | 📱 | 🌱 | 💬 |
-|----|----|----|----|----|
-| **Goal**: Full Stack Developer | **Specialty**: Frontend & Responsive Design | **Passion**: User-Friendly Interfaces | **Learning**: React & Advanced JS | **Ask Me About**: Web Development |
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-Feel free to reach out if you want to:
-- 💬 Discuss web development & technology
-- 🤝 Collaborate on exciting projects
-- 📧 Chat about code and innovation
-- 🌐 Explore career opportunities
-
-### 📊 Profile Metrics
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sannny007&style=for-the-badge&color=00D4FF)
+![Profile Views](https://komarev.com/ghpvc/?username=Sannny007&style=for-the-badge&color=6366F1)
 
 </div>
 
@@ -195,12 +209,18 @@ Feel free to reach out if you want to:
 
 <div align="center">
 
-### ✨ *"Code is the art of problem-solving. Every line tells a story."* ✨
+### 💭 Philosophy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00D4FF&center=true&vCenter=true&width=435&lines=Keep+Learning%2C+Keep+Growing!;Let's+Build+Something+Amazing!)](https://github.com/Sannny007)
-
-</div>
+*"Code is not just about functionality. It's about creating elegant solutions, smooth experiences, and leaving room for growth. Every line should tell a story of intentional design."*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF&color=100:0099FF&height=120&section=footer&animation=twinkling"/>
+### 🎯 Currently Focused On
+
+**Building the bridge between stunning frontends and robust backends**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1:0066FF&height=100&section=footer&animation=fadeIn"/>
+
+</div>
