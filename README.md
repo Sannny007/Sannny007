@@ -2,38 +2,80 @@
 
 # 🚀 Sanny Kumar Sharma
 
-<div style="position: relative; width: 100%; height: 120px; margin: 30px 0; perspective: 1000px;">
-  <svg width="100%" height="120" viewBox="0 0 800 120" style="filter: drop-shadow(0 0 20px rgba(99,102,241,0.3));">
-    <!-- Animated 3D-like background -->
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0066FF;stop-opacity:1" />
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <!-- Animated cubes -->
-    <rect x="50" y="20" width="40" height="40" fill="url(#grad1)" rx="5" opacity="0.8" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="rotate" values="0 70 40; 360 70 40" dur="8s" repeatCount="indefinite" />
-    </rect>
-    <rect x="120" y="30" width="35" height="35" fill="#0066FF" rx="5" opacity="0.7" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="rotate" values="360 137.5 47.5; 0 137.5 47.5" dur="6s" repeatCount="indefinite" />
-    </rect>
-    <rect x="180" y="25" width="45" height="45" fill="#6366F1" rx="5" opacity="0.75" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="rotate" values="0 202.5 47.5; 360 202.5 47.5" dur="7s" repeatCount="indefinite" />
-    </rect>
-    <!-- Animated text with 3D effect -->
-    <text x="300" y="65" font-size="36" font-weight="bold" fill="url(#grad1)" font-family="'Poppins', sans-serif" filter="url(#glow)">
-      CREATIVE DEVELOPER
-    </text>
-  </svg>
-</div>
+<!-- 3D Animated Canvas Header -->
+<canvas id="canvas3d" width="800" height="150" style="border-radius: 15px; display: block; margin: 20px auto; background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(0,102,255,0.1) 100%);"></canvas>
+
+<script>
+// 3D Animated Particle System
+const canvas = document.getElementById('canvas3d');
+const ctx = canvas.getContext('2d');
+
+const particles = [];
+const mouse = { x: 0, y: 0 };
+
+class Particle {
+  constructor() {
+    this.x = Math.random() * canvas.width;
+    this.y = Math.random() * canvas.height;
+    this.vx = (Math.random() - 0.5) * 2;
+    this.vy = (Math.random() - 0.5) * 2;
+    this.size = Math.random() * 3 + 1;
+    this.opacity = Math.random() * 0.5 + 0.3;
+    this.color = Math.random() > 0.5 ? '#6366F1' : '#0066FF';
+  }
+
+  update() {
+    this.x += this.vx;
+    this.y += this.vy;
+
+    if (this.x < 0 || this.x > canvas.width) this.vx *= -1;
+    if (this.y < 0 || this.y > canvas.height) this.vy *= -1;
+  }
+
+  draw() {
+    ctx.fillStyle = `rgba(99, 102, 241, ${this.opacity})`;
+    ctx.beginPath();
+    ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+    ctx.fill();
+  }
+}
+
+function initParticles() {
+  for (let i = 0; i < 50; i++) {
+    particles.push(new Particle());
+  }
+}
+
+function animate() {
+  ctx.fillStyle = 'rgba(15, 23, 42, 0.1)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  particles.forEach(p => {
+    p.update();
+    p.draw();
+  });
+
+  // Draw connecting lines between nearby particles
+  particles.forEach((p1, i) => {
+    particles.slice(i + 1).forEach(p2 => {
+      const dist = Math.hypot(p1.x - p2.x, p1.y - p2.y);
+      if (dist < 100) {
+        ctx.strokeStyle = `rgba(99, 102, 241, ${0.2 * (1 - dist / 100)})`;
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.moveTo(p1.x, p1.y);
+        ctx.lineTo(p2.x, p2.y);
+        ctx.stroke();
+      }
+    });
+  });
+
+  requestAnimationFrame(animate);
+}
+
+initParticles();
+animate();
+</script>
 
 <!-- Animated typing effect with multiple roles -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=4000&pause=500&color=6366F1&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;FRONTEND+ARCHITECT;3D+WEB+INNOVATOR;CREATIVE+TECHNOLOGIST;PERFORMANCE+OPTIMIZER" alt="Typing animation"/>
@@ -76,30 +118,6 @@ Specializing in **MERN stack development** combined with cutting-edge **3D visua
 <div align="center">
 
 ### **Frontend Development**
-
-<style>
-  @keyframes scrollRight {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(100px); }
-  }
-  
-  @keyframes scrollLeft {
-    0% { transform: translateX(100px); }
-    100% { transform: translateX(0); }
-  }
-  
-  .skill-badge {
-    display: inline-block;
-    margin: 8px 4px;
-    transition: transform 0.3s ease;
-    animation: scrollRight 0.6s ease-out forwards;
-  }
-  
-  .skill-badge.scroll-up {
-    animation: scrollLeft 0.6s ease-out forwards;
-  }
-</style>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -351,40 +369,3 @@ Specializing in **MERN stack development** combined with cutting-edge **3D visua
 ### ✨ Turning Ideas Into Interactive Experiences ✨
 
 </div>
-
-<script>
-// Scroll-triggered animation for skill badges
-let lastScrollY = 0;
-let scrollDirection = 'down';
-
-window.addEventListener('scroll', () => {
-  const currentScrollY = window.scrollY;
-  
-  if (currentScrollY > lastScrollY) {
-    scrollDirection = 'down';
-  } else if (currentScrollY < lastScrollY) {
-    scrollDirection = 'up';
-  }
-  
-  lastScrollY = currentScrollY;
-  
-  // Get all skill badges
-  const badges = document.querySelectorAll('img[src*="img.shields.io"]');
-  
-  badges.forEach(badge => {
-    const parent = badge.parentElement;
-    
-    if (scrollDirection === 'down') {
-      parent.classList.remove('scroll-up');
-      parent.classList.add('skill-badge');
-      // Trigger reflow to restart animation
-      void parent.offsetWidth;
-    } else if (scrollDirection === 'up') {
-      parent.classList.add('scroll-up');
-      parent.classList.remove('skill-badge');
-      // Trigger reflow to restart animation
-      void parent.offsetWidth;
-    }
-  });
-});
-</script>
