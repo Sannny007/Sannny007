@@ -1,5 +1,5 @@
 👋 Welcome to My GitHub Profile
-Hi there, I'm Sanny Sharma 👨‍💻
+Hi there, I'm Sanny Kumar Sharma 👨‍💻
 Frontend Developer | Web Development Enthusiast | Java DSA Learner
 Typing SVG
 
