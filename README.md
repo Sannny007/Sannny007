@@ -76,6 +76,30 @@ Specializing in **MERN stack development** combined with cutting-edge **3D visua
 <div align="center">
 
 ### **Frontend Development**
+
+<style>
+  @keyframes scrollRight {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(100px); }
+  }
+  
+  @keyframes scrollLeft {
+    0% { transform: translateX(100px); }
+    100% { transform: translateX(0); }
+  }
+  
+  .skill-badge {
+    display: inline-block;
+    margin: 8px 4px;
+    transition: transform 0.3s ease;
+    animation: scrollRight 0.6s ease-out forwards;
+  }
+  
+  .skill-badge.scroll-up {
+    animation: scrollLeft 0.6s ease-out forwards;
+  }
+</style>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -327,3 +351,40 @@ Specializing in **MERN stack development** combined with cutting-edge **3D visua
 ### ✨ Turning Ideas Into Interactive Experiences ✨
 
 </div>
+
+<script>
+// Scroll-triggered animation for skill badges
+let lastScrollY = 0;
+let scrollDirection = 'down';
+
+window.addEventListener('scroll', () => {
+  const currentScrollY = window.scrollY;
+  
+  if (currentScrollY > lastScrollY) {
+    scrollDirection = 'down';
+  } else if (currentScrollY < lastScrollY) {
+    scrollDirection = 'up';
+  }
+  
+  lastScrollY = currentScrollY;
+  
+  // Get all skill badges
+  const badges = document.querySelectorAll('img[src*="img.shields.io"]');
+  
+  badges.forEach(badge => {
+    const parent = badge.parentElement;
+    
+    if (scrollDirection === 'down') {
+      parent.classList.remove('scroll-up');
+      parent.classList.add('skill-badge');
+      // Trigger reflow to restart animation
+      void parent.offsetWidth;
+    } else if (scrollDirection === 'up') {
+      parent.classList.add('scroll-up');
+      parent.classList.remove('skill-badge');
+      // Trigger reflow to restart animation
+      void parent.offsetWidth;
+    }
+  });
+});
+</script>
