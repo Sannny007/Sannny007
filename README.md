@@ -1,6 +1,4 @@
 <div align="center">
-
-<!-- 3D Animated Header -->
 <h1 style="
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   -webkit-background-clip: text;
@@ -10,7 +8,7 @@
   margin: 20px 0;
   animation: glow 2s ease-in-out infinite;
 ">
-  🚀 Sanny Kumar Sharma
+   Sanny Kumar Sharma
 </h1>
 
 <p style="
@@ -67,19 +65,11 @@ Professional full-stack developer with expertise in building high-performance we
 
 ---
 
-## 💼 Professional Experience
-
-| Role | Company | Duration | Highlights |
-|------|---------|----------|-----------|
-| Full-Stack Developer | *Your Company* | *Dates* | Developed scalable web applications, optimized performance |
-| *Add More* | *Details* | *Here* | *Your achievements* |
-
----
 
 ## 🎓 Education
 
-- **Course/Degree:** [Your Educational Background]
-- **Institution:** [Your Institution]
+- **Course/Degree:** B.Tech in Computer science & Engineering
+- **Institution:** IES UNIVERSITY, BHOPAL
 - **Specialization:** Full-Stack Development, Web Technologies
 
 ---
