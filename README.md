@@ -1,47 +1,14 @@
 <div align="center">
-<h1 style="
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 3.5em;
-  font-weight: bold;
-  margin: 20px 0;
-  animation: glow 2s ease-in-out infinite;
-">
-   Sanny Kumar Sharma
-</h1>
 
-<p style="
-  font-size: 1.3em;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: 600;
-  margin: 10px 0;
-  animation: slideIn 1s ease-out, shimmer 3s ease-in-out infinite;
-  background-size: 200% 100%;
-">
-  Full-Stack Developer | MERN Stack Specialist | 3D Web Graphics
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Sanny%20Kumar%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<style>
-  @keyframes shimmer {
-    0%, 100% { background-position: 200% 0; }
-    50% { background-position: -200% 0; }
-  }
-  @keyframes slideIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes glow {
-    0%, 100% { text-shadow: 0 0 20px rgba(102, 126, 234, 0.5); }
-    50% { text-shadow: 0 0 40px rgba(118, 75, 162, 0.8); }
-  }
-</style>
-
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=764ABC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;3D+Web+Graphics+Enthusiast" alt="Typing SVG" />
+</a>
 
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -49,7 +16,7 @@ Professional full-stack developer with expertise in building high-performance we
 
 ---
 
-## 🏆 ⭐ Pinned Project: MERN Stack Architecture
+## 🏆 Pinned Project: MERN Stack Architecture
 
 ### 🚀 MERN Full-Stack Project
 **Technologies:** MongoDB, Express.js, React, Node.js, Redux, Tailwind CSS, JWT Auth
@@ -71,12 +38,12 @@ Professional full-stack developer with expertise in building high-performance we
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 3D & Animation
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-00A651?style=for-the-badge&logo=greensock&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas_API-FFB13B?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
@@ -90,17 +57,16 @@ Professional full-stack developer with expertise in building high-performance we
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-
 ## 🎓 Education
 
-- **Course/Degree:** B.Tech in Computer science & Engineering
-- **Institution:** IES UNIVERSITY, BHOPAL
+- **Course/Degree:** B.Tech in Computer Science & Engineering
+- **Institution:** IES University, Bhopal
 - **Specialization:** Full-Stack Development, Web Technologies
 
 ---
@@ -180,9 +146,10 @@ Professional full-stack developer with expertise in building high-performance we
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sannny007&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Sannny007&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanny's GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannny007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannny007&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sannny007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 
 </div>
 
@@ -194,14 +161,10 @@ Professional full-stack developer with expertise in building high-performance we
 
 **Full-Stack Development | Frontend Architecture | 3D Web Graphics**
 
-![Wave](https://img.shields.io/badge/Always%20Learning%20%F0%9F%9A%80-blue?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To%20Work-green?style=flat-square)
+![Always Learning](https://img.shields.io/badge/Always%20Learning-blue?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=flat-square)
 
-</div>
-
----
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=100&section=footer"/>
 
 **Made with ❤️ by Sanny Kumar Sharma**
 
