@@ -13,13 +13,31 @@
 
 <p style="
   font-size: 1.3em;
-  color: #667eea;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-weight: 600;
   margin: 10px 0;
-  animation: slideIn 1s ease-out;
+  animation: slideIn 1s ease-out, shimmer 3s ease-in-out infinite;
+  background-size: 200% 100%;
 ">
   Full-Stack Developer | MERN Stack Specialist | 3D Web Graphics
 </p>
+
+<style>
+  @keyframes shimmer {
+    0%, 100% { background-position: 200% 0; }
+    50% { background-position: -200% 0; }
+  }
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes glow {
+    0%, 100% { text-shadow: 0 0 20px rgba(102, 126, 234, 0.5); }
+    50% { text-shadow: 0 0 40px rgba(118, 75, 162, 0.8); }
+  }
+</style>
 
 ---
 
@@ -27,7 +45,20 @@
 
 ## 👨‍💻 About Me
 
-Professional full-stack developer with expertise in building high-performance web applications using the MERN stack. Specializing in responsive design, 3D graphics, and advanced animations. I transform creative ideas into interactive, scalable digital experiences.
+Professional full-stack developer with expertise in building high-performance web applications using the MERN stack. Specializing in responsive design, 3D graphics, and advanced animations. I transform ideas into engaging digital experiences with cutting-edge web technologies.
+
+---
+
+## 🏆 ⭐ Pinned Project: MERN Stack Architecture
+
+### 🚀 MERN Full-Stack Project
+**Technologies:** MongoDB, Express.js, React, Node.js, Redux, Tailwind CSS, JWT Auth
+- Complete MERN ecosystem implementation with production-ready architecture
+- Advanced state management with Redux and middleware patterns
+- RESTful API design with authentication & authorization
+- Responsive UI with modern design principles
+- Database optimization and indexing strategies
+- Deployment-ready with Docker containerization
 
 ---
 
