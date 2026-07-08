@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Sanny%20Kumar%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=gradient&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:FFA07A,100:FF6B6B&height=200&section=header&text=Sanny%20Kumar%20Sharma&fontSize=55&fontColor=ffffff&animation=blinking&desc=Full-Stack%20Developer%20|%20MERN%20Stack&descSize=20&descColor=ffffff" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=764ABC&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+🚀;MERN+Stack+Specialist+⚡;3D+Web+Graphics+Expert+🎨;Building+Beautiful+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&lines=Building%20Scalable%20Web%20Applications;Creating%203D%20Interactive%20Experiences;Crafting%20Beautiful%20User%20Interfaces" />
 </p>
 
 <div style="margin: 20px 0;">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sannny007&style=flat-square&color=764ba2)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sannny007&style=flat-square&color=FF6B6B)
   ![Open to Work](https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=flat-square&logo=briefcase)
   ![Always Learning](https://img.shields.io/badge/Always%20Learning-blue?style=flat-square&logo=brain)
   
@@ -18,11 +18,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 > **Passionate full-stack developer** crafting high-performance web applications with cutting-edge technologies. Specializing in **MERN stack**, **3D graphics**, and **advanced animations** to create immersive digital experiences.
 
-🎯 **What I Do:**
+What I Do:
 - Build scalable, production-ready full-stack applications
 - Create stunning 3D interactive experiences using Three.js and WebGL
 - Develop responsive, accessible UIs with modern frameworks
@@ -31,19 +31,19 @@
 
 ---
 
-## 🎨 Tech Stack Showcase
+## Tech Stack Showcase
 
-### 🖥️ Frontend Arsenal
+### Frontend Arsenal
 <div>
   
 | Language | Framework | Styling | State |
 |----------|-----------|---------|-------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Context](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
 
 </div>
 
-### 🎬 Animation & 3D
+### Animation & 3D
 <div>
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
@@ -54,7 +54,7 @@
 
 </div>
 
-### ⚙️ Backend Ecosystem
+### Backend Ecosystem
 <div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,7 +66,7 @@
 
 </div>
 
-### 🛠️ DevOps & Tools
+### DevOps & Tools
 <div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,9 +79,9 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🛍️ Amazon Clone
+### Amazon Clone
 **React • HTML5 • CSS3 • Responsive Design**
 
 Fully responsive e-commerce platform with dynamic product filtering, cart management, and modern UI/UX principles.
@@ -90,7 +90,7 @@ Fully responsive e-commerce platform with dynamic product filtering, cart manage
 
 ---
 
-### 🤖 CodeMentor AI
+### CodeMentor AI
 **HTML • CSS • JavaScript • Gemini API**
 
 AI-powered coding assistant delivering real-time code suggestions and intelligent explanations integrated with cutting-edge AI models.
@@ -99,7 +99,7 @@ AI-powered coding assistant delivering real-time code suggestions and intelligen
 
 ---
 
-### 🎯 Interactive 3D Portfolio
+### Interactive 3D Portfolio
 **React • Three.js • GSAP • Tailwind CSS**
 
 Immersive portfolio showcase with animated 3D elements, smooth scroll transitions, and interactive navigation.
@@ -108,7 +108,7 @@ Immersive portfolio showcase with animated 3D elements, smooth scroll transition
 
 ---
 
-### ⏰ Digital Clock
+### Digital Clock
 **HTML5 • CSS3 • JavaScript • Animation**
 
 Real-time clock with smooth animations, multiple timezone support, and interactive UI elements.
@@ -117,32 +117,32 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 ---
 
-## 📊 Core Competencies
+## Core Competencies
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                    EXPERTISE MATRIX                          ║
 ╠══════════════════════════════════════════════════════════════╣
-║ 🎨 FRONTEND                                                  ║
+║ FRONTEND                                                     ║
 ║   → React/Next.js, TypeScript, Responsive Design             ║
 ║   → State Management (Redux, Context), Advanced CSS           ║
 ║   → Component Architecture, Performance Optimization          ║
 ║                                                              ║
-║ 🌐 3D & ANIMATIONS                                           ║
+║ 3D & ANIMATIONS                                              ║
 ║   → Three.js, WebGL, Canvas API                              ║
 ║   → GSAP, Framer Motion, CSS Animations                      ║
 ║   → Real-time Interactions, Shader Programming               ║
 ║                                                              ║
-║ ⚙️  BACKEND                                                  ║
+║ BACKEND                                                      ║
 ║   → Node.js, Express.js, Server Architecture                 ║
 ║   → Database Design (MongoDB, PostgreSQL)                    ║
 ║   → REST API & GraphQL, Authentication & Authorization       ║
 ║                                                              ║
-║ ⚡ PERFORMANCE                                               ║
+║ PERFORMANCE                                                  ║
 ║   → Web Vitals Optimization, Code Splitting                  ║
 ║   → Lazy Loading, Caching Strategies, Bundle Analysis        ║
 ║                                                              ║
-║ 🚀 DEVOPS                                                    ║
+║ DEVOPS                                                       ║
 ║   → Git Workflows, CI/CD Pipelines                           ║
 ║   → Docker Containerization, Cloud Deployment (AWS)          ║
 ║   → Monitoring & Logging                                     ║
@@ -151,23 +151,23 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 ---
 
-## 📚 Learning Journey
+## Learning Journey
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────┐
-│  🚀 ADVANCED LEARNING ROADMAP  🚀           │
+│       ADVANCED LEARNING ROADMAP             │
 ├─────────────────────────────────────────────┤
 │                                             │
-│  ✨ Advanced MERN Architecture              │
-│  ✨ GraphQL & Real-time APIs (WebSocket)   │
-│  ✨ Advanced 3D: Shaders & Compute         │
-│  ✨ System Design & Microservices          │
-│  ✨ ML Integration & AI Features           │
-│  ✨ Cloud Native Architecture              │
-│  ✨ Performance Engineering                │
-│  ✨ Web Security Best Practices            │
+│  Advanced MERN Architecture                 │
+│  GraphQL & Real-time APIs (WebSocket)      │
+│  Advanced 3D: Shaders & Compute            │
+│  System Design & Microservices             │
+│  ML Integration & AI Features              │
+│  Cloud Native Architecture                 │
+│  Performance Engineering                   │
+│  Web Security Best Practices               │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -176,7 +176,7 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 ---
 
-## 📈 GitHub Insights
+## GitHub Insights
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 <div align="center">
 
@@ -209,11 +209,11 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 ---
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-**Feel free to reach out for collaborations, opportunities, or just to say hello! 👋**
+**Feel free to reach out for collaborations, opportunities, or just to say hello!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanny-kumar-sharma-2a8b7540a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sannny007)
@@ -227,15 +227,15 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 <div align="center">
 
-### ✨ Current Status
+### Current Status
 
 ![Always Learning](https://img.shields.io/badge/Always%20Learning-blue?style=flat-square&logo=book)
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-brightgreen?style=flat-square&logo=briefcase)
 ![Building Cool Stuff](https://img.shields.io/badge/Building%20Cool%20Stuff-purple?style=flat-square&logo=rocket)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=gradient&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:FFA07A,100:FF6B6B&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
-**Crafted with** ❤️ **and powered by** ☕ **by Sanny Kumar Sharma**
+**Crafted with passion and powered by coffee by Sanny Kumar Sharma**
 
 </div>
 
@@ -243,7 +243,7 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 <div align="center">
 
-![Made with Love](https://img.shields.io/badge/Made%20with%20❤️-ff69b4?style=flat)
+![Made with Love](https://img.shields.io/badge/Made%20with%20Love-ff69b4?style=flat)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-black?style=flat&logo=github)
 
