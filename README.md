@@ -99,60 +99,8 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 > [View Project](#) • [Source Code](#)
 
----
 
-## Core Competencies
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    EXPERTISE MATRIX                          ║
-╠══════════════════════════════════════════════════════════════╣
-║ FRONTEND                                                     ║
-║   → React/Next.js, TypeScript, Responsive Design             ║
-║   → State Management (Redux, Context), Advanced CSS           ║
-║   → Component Architecture, Performance Optimization          ║
-║                                                              ║
-║ 3D & ANIMATIONS                                              ║
-║   → Three.js, WebGL, Canvas API                              ║
-║   → GSAP, Framer Motion, CSS Animations                      ║
-║   → Real-time Interactions, Shader Programming               ║
-║                                                              ║
-║ BACKEND                                                      ║
-║   → Node.js, Express.js, Server Architecture                 ║
-║   → Database Design (MongoDB, PostgreSQL)                    ║
-║   → REST API & GraphQL, Authentication & Authorization       ║
-║                                                              ║
-║ PERFORMANCE                                                  ║
-║   → Web Vitals Optimization, Code Splitting                  ║
-║   → Lazy Loading, Caching Strategies, Bundle Analysis        ║
-║                                                              ║
-║ DEVOPS                                                       ║
-║   → Git Workflows, CI/CD Pipelines                           ║
-║   → Docker Containerization, Cloud Deployment (AWS)          ║
-║   → Monitoring & Logging                                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## Learning Journey
-
-```
-┌─────────────────────────────────────────────┐
-│       ADVANCED LEARNING ROADMAP             │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Advanced MERN Architecture                 │
-│  GraphQL & Real-time APIs (WebSocket)      │
-│  Advanced 3D: Shaders & Compute            │
-│  System Design & Microservices             │
-│  ML Integration & AI Features              │
-│  Cloud Native Architecture                 │
-│  Performance Engineering                   │
-│  Web Security Best Practices               │
-│                                             │
-└─────────────────────────────────────────────┘
-```
 
 ---
 
