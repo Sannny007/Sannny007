@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:FFA07A,100:FF6B6B&height=200&section=header&text=Sanny%20Kumar%20Sharma&fontSize=55&fontColor=ffffff&animation=blinking&desc=Full-Stack%20Developer%20|%20MERN%20Stack&descSize=20&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=gradient&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:FFA07A,100:FF6B6B&height=200&section=header&text=Sanny%20Kumar%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=50" alt="Header" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&lines=Building%20Scalable%20Web%20Applications;Creating%203D%20Interactive%20Experiences;Crafting%20Beautiful%20User%20Interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&lines=Building%20Scalable%20Web%20Applications;Crafting%203D%20Interactive%20Experiences;Optimizing%20Performance%20%26%20UX;Full-Stack%20MERN%20Developer" alt="Typing SVG" />
 </p>
 
 <div style="margin: 20px 0;">
@@ -20,7 +20,7 @@
 
 ## About Me
 
-> **Passionate full-stack developer** crafting high-performance web applications with cutting-edge technologies. Specializing in **MERN stack**, **3D graphics**, and **advanced animations** to create immersive digital experiences.
+> **Passionate full-stack developer** crafting high-performance web applications with cutting-edge technologies. Specializing in **MERN stack**, **3D graphics**, and **advanced animations** to create unforgettable digital experiences.
 
 What I Do:
 - Build scalable, production-ready full-stack applications
@@ -38,8 +38,8 @@ What I Do:
   
 | Language | Framework | Styling | State |
 |----------|-----------|---------|-------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
 
 </div>
 
@@ -233,7 +233,7 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-brightgreen?style=flat-square&logo=briefcase)
 ![Building Cool Stuff](https://img.shields.io/badge/Building%20Cool%20Stuff-purple?style=flat-square&logo=rocket)
 
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:FFA07A,100:FF6B6B&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=gradient&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:FFA07A,100:FF6B6B&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 
 **Crafted with passion and powered by coffee by Sanny Kumar Sharma**
 
