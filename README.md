@@ -124,7 +124,8 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 </div>
 
-> This is a genuinely **animated** graphic (a snake literally eats your contribution graph). It needs a one-time setup: add [`Platane/snk`](https://github.com/Platane/snk) as a GitHub Action in a repo named exactly like your username, so it generates and commits `github-contribution-grid-snake.svg` to an `output` branch. Once that workflow runs once, this image will light up automatically.
+- Sanny007: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0
 
 ---
 
