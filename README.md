@@ -102,9 +102,7 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 </tr>
 </table>
 
-> **Tip:** swap every `#` above with your actual GitHub repo and live-demo URLs — broken `#` links were one of the issues in the old file.
 
----
 
 ## GitHub Insights
 
@@ -117,7 +115,6 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 </div>
 
-> Switched the streak widget from `github-readme-streak-stats.herokuapp.com` to `streak-stats.demolab.com` — Heroku killed free hosting for that old domain, so the badge was rendering as a broken image. `demolab.com` is the maintainer's current recommended endpoint.
 
 ### Contribution Snake 🐍
 
