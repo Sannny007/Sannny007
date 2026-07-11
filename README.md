@@ -63,7 +63,7 @@
 
 Fully responsive e-commerce platform with dynamic product filtering, cart management, and modern UI/UX principles.
 
-[View Project](#) · [Source Code](#)
+[View Project](https://amazon-clone-sanny.vercel.app) · [Source Code](https://github.com/Sannny007/amazon-clone)
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Fully responsive e-commerce platform with dynamic product filtering, cart manage
 
 AI-powered coding assistant delivering real-time code suggestions and intelligent explanations integrated with cutting-edge AI models.
 
-[View Project](#) · [Source Code](#)
+[View Project](https://codementor-ai.vercel.app) · [Source Code](https://github.com/Sannny007/codementor-ai)
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ AI-powered coding assistant delivering real-time code suggestions and intelligen
 
 Immersive portfolio showcase with animated 3D elements, smooth scroll transitions, and interactive navigation.
 
-[View Project](#) · [Source Code](#)
+[View Project](https://sannny007-portfolio.vercel.app) · [Source Code](https://github.com/Sannny007/3d-portfolio)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +95,7 @@ Immersive portfolio showcase with animated 3D elements, smooth scroll transition
 
 Real-time clock with smooth animations, multiple timezone support, and interactive UI elements.
 
-[View Project](#) · [Source Code](#)
+[View Project](https://digital-clock-sanny.vercel.app) · [Source Code](https://github.com/Sannny007/digital-clock)
 
 </td>
 </tr>
