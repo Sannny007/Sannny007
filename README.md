@@ -48,7 +48,7 @@
 
 </div>
 
-> GSAP and Framer Motion are also part of my animation toolkit — [skillicons.dev](https://skillicons.dev) doesn't have badges for them yet, so they're listed here instead.
+> **Animation Toolkit:** GSAP and Framer Motion are also part of my toolkit for creating smooth, performant animations.
 
 ---
 
@@ -63,7 +63,6 @@
 
 Fully responsive e-commerce platform with dynamic product filtering, cart management, and modern UI/UX principles.
 
-<!-- Replace # with your real repo/demo links -->
 [View Project](#) · [Source Code](#)
 
 </td>
@@ -102,7 +101,7 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 </tr>
 </table>
 
-
+---
 
 ## GitHub Insights
 
@@ -115,7 +114,6 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 
 </div>
 
-
 ### Contribution Snake 🐍
 
 <div align="center">
@@ -123,9 +121,6 @@ Real-time clock with smooth animations, multiple timezone support, and interacti
 <img src="https://raw.githubusercontent.com/Sannny007/Sannny007/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 
 </div>
-
-- Sanny007: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.5.0
 
 ---
 
